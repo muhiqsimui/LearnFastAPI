@@ -6,4 +6,14 @@ This Repo just for save file fast api and learning something
 
 Website : https://fastapi.tiangolo.com/
 Github : https://github.com/tiangolo/fastapi
-pip install fastapi
+
+```console
+$ pip install fastapi
+---> 100%
+```
+
+```console
+$ pip install uvicorn[standard]
+
+---> 100%
+```
