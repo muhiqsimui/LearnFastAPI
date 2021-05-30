@@ -18,3 +18,9 @@ $ pip install uvicorn[standard]
 
 ---> 100%
 ```
+
+how to run app
+
+```console
+uvicorn main:app --reload
+```
