@@ -1,6 +1,9 @@
 # LearnFastAPI
-this my repo just for save file fast api and learning something
+<a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" size="100px" alt="FastAPI"></a>
+This Repo just for save file fast api and learning something
 
-<b>Fast API</b>
-FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python
-https://fastapi.tiangolo.com/
+<b>Fast API</b> is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python
+
+Website : https://fastapi.tiangolo.com/
+Github : https://github.com/tiangolo/fastapi
+pip install fastapi
