@@ -24,3 +24,9 @@ how to run app
 ```console
 uvicorn main:app --reload
 ```
+
+api interface ui so nice
+
+```
+http://127.0.0.1:8000/docs
+```
